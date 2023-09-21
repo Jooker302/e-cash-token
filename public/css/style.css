@@ -349,11 +349,11 @@ ul.email li i {
 }
 
 .sidepanel a:hover {
-     color: #face34;
+     color: #007EC9;
 }
 
 .sidepanel a.active {
-     color: #face34;
+     color: #007EC9;
 }
 
 .sidepanel .closebtn {
@@ -475,7 +475,7 @@ ul.email li i {
 }
 
 #wa_hover:hover.wallet_box {
-     background: #face34;
+     background: #007EC9;
      transition: ease-in all 0.5s;
 }
 
@@ -567,10 +567,10 @@ ul.email li i {
 }
 
 .read_more:hover {
-     background: #face34;
+     background: #007EC9;
      color: #fff;
      transition: ease-in all 0.5s;
-     border: #face34 solid 2px;
+     border: #007EC9 solid 2px;
 }
 
 .img_responsive {
@@ -602,13 +602,13 @@ ul.email li i {
 .graf_tab .nav-link.active {
      border: inherit !important;
      background: transparent;
-     color: #face34;
+     color: #007EC9;
 }
 
 .graf_tab .nav-link:focus,
 .graf_tab .nav-link:hover {
      border: inherit !important;
-     color: #face34
+     color: #007EC9
 }
 
 .graf_content {
@@ -633,7 +633,7 @@ ul.email li i {
 }
 
 .usd h4 span {
-     color: #face34;
+     color: #007EC9;
 }
 
 .graf_bootom {
@@ -710,7 +710,7 @@ ul.email li i {
 
 .testomoniam_text span {
      display: block;
-     color: #face34;
+     color: #007EC9;
      font-size: 17px;
      padding: 2px 0 30px 0;
      line-height: 20px;
@@ -742,7 +742,7 @@ ul.email li i {
      height: 23px;
      border-radius: 20px;
      display: inline-block;
-     background-color: #face34;
+     background-color: #007EC9;
      cursor: pointer;
 }
 
@@ -813,10 +813,10 @@ ul.email li i {
 }
 
 .main_form .send_btn:hover {
-     background-color: #face34;
+     background-color: #007EC9;
      transition: ease-in all 0.5s;
      color: #fff;
-     border: #face34 solid 2px;
+     border: #007EC9 solid 2px;
 }
 
 #request *::placeholder {
@@ -914,9 +914,9 @@ ul.email li i {
 }
 
 .subs_btn:hover {
-     background: #face34;
+     background: #007EC9;
      transition: ease-in all 0.5s;
-     border: #face34 solid 2px;
+     border: #007EC9 solid 2px;
 }
 
 .copyright {
@@ -934,7 +934,7 @@ ul.email li i {
 }
 
 .copyright a:hover {
-     color: #face34;
+     color: #007EC9;
 }
 
 
